@@ -13,8 +13,8 @@ public class Main {
 	// TODO: acrescentar os outros grupos
 
 	public static void main(String[] args) {
-		System.out.println("Projeto APOO - 2021/01");
-
+		System.out.println("Projeto POO");
+		System.out.println(">> GRUPO 06 <<");
 		exercicioGrupo06();
 	}
 
